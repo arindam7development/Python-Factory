@@ -5,6 +5,7 @@
 stack = [3, 4, 5]
 stack.append(6)
 stack.append(7)
+stack.append(10)
 print (stack)
 stack.pop(1)
 print (stack)
